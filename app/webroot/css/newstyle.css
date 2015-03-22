@@ -1,0 +1,51 @@
+
+@charset "utf-8";
+
+body {
+    background: #ffffff;
+    color: #fff;
+    font-family:'lucida grande',verdana,helvetica,arial,sans-serif;
+    font-size:100%;
+    margin: 0;
+    text-align: center;
+
+}
+
+
+#container{
+    background: #ffffff;
+    color: #003d4c;
+    width: 960px;
+
+    margin:0 auto;
+
+}
+
+
+#header{
+    background: orange;
+
+
+}
+
+#content{
+    background: ghostwhite;
+    margin: 0 auto;
+}
+
+#menu{
+    text-align: left;
+}
+
+.userinfo{
+    list-style-type: none;
+    text-align: right;
+}
+
+.booklist{
+    list-style-type: none;
+    margin: 0 auto;
+    margin-bottom: 100px;
+
+}
+
